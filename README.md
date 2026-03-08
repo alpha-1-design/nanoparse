@@ -1,3 +1,7 @@
+Not currently maintained. Head to ['nuff-said](https://github.com/nuff-said) for a tinier utility!
+
+-----
+
 # nanoparse
 
 A tiny **(`1kb`!)** argument parser. No fluff!
